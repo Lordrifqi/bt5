@@ -6,35 +6,35 @@
 // RECODE BACK BY ARULL OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6285822347348'] 
-global.mods = ['6285822347348'] 
-global.prems = ['6285822347348'] 
+global.owner = ['6283104818812'] 
+global.mods = ['6283104818812'] 
+global.prems = ['6283104818812'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ArullOfc ✰'
-global.numberowner = '6285822347348'
+global.nameowner = 'RifqiTzy✰'
+global.numberowner = '6283104818812'
 global.instagram = 'https://instagram.com/sahrulwara_____'
-global.github = 'https://github.com/warikrr'
-global.dana = '085822347348'
-global.pulsa = '085822347348'
-global.gopay = ''
+global.github = 'https://github.com/Lordrifqi'
+global.dana = '6283104818812'
+global.pulsa = '6283104818812'
+global.gopay = '6283104818812'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ArullBotzMD'
-global.gc = 'https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS'
-global.web = 'https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://saweria.co/arullOfc'
+global.namebot = 'D4RKBOT'
+global.gc = 'https://chat.whatsapp.com/Lmqp1gb0b2SJUnGThJOi4R'
+global.web = 'https://chat.whatsapp.com/Lmqp1gb0b2SJUnGThJOi4R' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://chat.whatsapp.com/Lmqp1gb0b2SJUnGThJOi4R'
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》1 MINGGU Rp 5.000\nMAKSIMAL 1 GRUP\n》1 BULAN  Rp 10.000\nMAKSIMAL 1 GRUP \n》 Rp 20.000\nMAKSIMAL 1 GRUP + PREMIUM\n》PERMANEN Rp 30.000\nMAKSIMAL 3 GRUP\n》4 BULAN  Rp 25.000\nMAKSIMAL 2 GRUP + PREMIUM\n\nMAU NAMBAH GRUP LAGI \nPERMANEN Rp 25.000\nMAKSIMAL 2 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg' //ini juga ganti 
+global.fotonya1 = '1657963128855.jpg' //ganti jadi foto bot mu
+global.fotonya2 = '1657963128855.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '↻ArullBotz𝙼𝙳'
+global.wm = '↻D4RKBOT'
 global.watermark = wm
-global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 ArullOfc ×፝֟͜×'
-global.wm3 = 'ᯤ Arull𝙾𝙵𝙲'
+global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 Rifqi ×፝֟͜×'
+global.wm3 = 'ᯤ RifqiTzy'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg'
